@@ -1,0 +1,25 @@
+body {
+	
+}
+
+h1 {
+	font-family: "Times New Roman";
+	text-align: center;
+	margin-top: 50px;
+	font-size: 50px;
+	color: #3b74aa;
+}
+
+p {
+	font-family: "Times New Roman";
+	text-align: center;
+	margin-top: 50px;
+	font-size: 20px;
+	color: #3b74aa;
+}
+
+#arches {
+	margin-left: 31%;
+	margin-bottom: 50px;
+}
+
